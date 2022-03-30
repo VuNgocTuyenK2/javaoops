@@ -10,6 +10,4 @@ public class Main {
      DuongTron Dt=new DuongTron();
      Dt.InThongTin();
 	}
-	//Lê Hữu Văn 2021050719
-
 }
